@@ -1,3 +1,5 @@
 # HelloCV
 notes
 通过在cnds以及b站上面看讲解或者视频来学习，不懂的地方问AI，已经在设置镜像加速器时参考了AI 以及询问多种镜像加速器的使用，从而保证正常进行。但是由于第一周系统版本问题ubuntu下载以及解决问题时间超过15h导致时间很少，第二周就抽空学了两周任务，有些繁重只完成了除实践以外的任务。
+https://www.yuque.com/u59968494/irgszv/gt93ag0yf2gtkag0   docker
+https://www.yuque.com/u59968494/irgszv/qakmcepv24ob4rnp   CMake
